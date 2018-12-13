@@ -1,2 +1,4 @@
-# eecs6802
-WaveformViewer
+To run
+
+$ npm install
+$ npm start
